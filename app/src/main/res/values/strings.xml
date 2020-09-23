@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flixster</string>
+    <string name="tab_text_1">Homepage</string>
+    <string name="tab_text_2">Explore</string>
+    <string name="tab_text_3">Watchlist</string>
+    <string name="homepage">Homepage</string>
+    <string name="explore">Explore</string>
+    <string name="watchlist">Watchlist</string>
+</resources>
