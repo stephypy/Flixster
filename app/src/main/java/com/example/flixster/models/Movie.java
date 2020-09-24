@@ -14,7 +14,7 @@ public class Movie {
     private String overview;
 
     public Movie(JSONObject jsonObject) throws JSONException {
-        this.posterPath = jsonObject.getString("posterPath");
+        //this.posterPath = jsonObject.getString("posterPath");
         this.title = jsonObject.getString("title");
         this.overview = jsonObject.getString("overview");
     }
