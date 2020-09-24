@@ -13,8 +13,10 @@ public class Movie {
     private String title;
     private String overview;
 
+    public Movie() {}
+
     public Movie(JSONObject jsonObject) throws JSONException {
-        //this.posterPath = jsonObject.getString("posterPath");
+        this.posterPath = jsonObject.getString("poster_path");
         this.title = jsonObject.getString("title");
         this.overview = jsonObject.getString("overview");
     }
