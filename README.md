@@ -31,14 +31,14 @@ The features below have been designed for portrait mode; a future update will ha
 
 ### App Walkthough GIF
 
-<img src='Flickster_Part1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Flickster_Part1.gif' title='Video Walkthrough' width=500 alt='Video Walkthrough' />
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/i01jIIk"  ><a href="//imgur.com/a/i01jIIk">Flixster Part 1</a></blockquote>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Notes
-Date: 09/25/2020
+Date: 09/25/2020 <br />
 Instead of just having one main activity, I decided to implement fragments in the app to have three tabs that would represent the homepage, explore page, and the watchlist page. The homepage includes the requirements for the assignment, but it was challenging to translate the code for an activity to a fragments. Namely, in main activity the method onCreate is used while in a fragment the method OnCreateView is used. It took several hours to debug, but I felt satified after being able to implement an app with three tabs. I still have future ideas for this app; namely adding functionality to the extra tabs of explore and watchlist since currently they serve as a placeholder for a future update.
 
 ### Open-source libraries used
