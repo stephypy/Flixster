@@ -15,4 +15,6 @@ public class WatchlistFragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         return inflater.inflate(R.layout.fragment_watchlist_layout, container, false);
     }
+
+
 }

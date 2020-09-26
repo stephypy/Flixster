@@ -5,6 +5,7 @@ import android.content.res.Configuration;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -50,12 +51,14 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> 
         ImageView ivMovie;
         TextView tvTitle;
         TextView tvOverview;
+        CheckBox addWatchlist;
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
             ivMovie = itemView.findViewById(R.id.iv_movie);
             tvTitle = itemView.findViewById(R.id.tv_title);
             tvOverview = itemView.findViewById(R.id.tv_overview);
+            addWatchlist = itemView.findViewById(R.id.addWatchlist);
         }
 
         public void bind(Movie movie) {

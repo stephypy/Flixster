@@ -36,5 +36,15 @@
         android:layout_marginTop="16dp"
         android:layout_toEndOf="@+id/iv_movie"
         android:text="lorem ipsum aa snjg rthhyh thbhtb trhtynyt btny gvrybtrnu come on come let us adore you yes i know that ur not her"
-        android:textSize="18sp" />
+        android:textSize="18sp"
+        tools:layout_margin="10dp" />
+
+    <CheckBox
+        android:id="@+id/addWatchlist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_overview"
+        android:layout_alignParentRight="true"
+        android:text="Add to Watchlist"
+        tools:layout_margin="10dp" />
 </RelativeLayout>
