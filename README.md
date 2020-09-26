@@ -20,14 +20,14 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 #### Additional Features
 The features below have been designed for portrait mode; a future update will handle landscape layout for the features below:
 - [x] Include a explore page to browse movies by genres
-   -[] Fetch movies based on genre
--[x] Include a watchlist page to save movie titles
-   -[] Add selected movies to the watchlist fragment
-   -[] Remove movies from watchlist
-   -[] Persistence of saved movies in watchlist
--[] Allow users to search for movies
-   -[x] Search fab on page
-   -[] API call to find movie
+   - [] Fetch movies based on genre
+- [x] Include a watchlist page to save movie titles
+   - [] Add selected movies to the watchlist fragment
+   - [] Remove movies from watchlist
+   - [] Persistence of saved movies in watchlist
+- [] Allow users to search for movies
+   - [x] Search fab on page
+   - [] API call to find movie
 
 ### App Walkthough GIF
 
