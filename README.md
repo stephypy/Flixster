@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Notes
 Date: 09/25/2020 <br />
-Instead of just having one main activity, I decided to implement fragments in the app to have three tabs that would represent the homepage, explore page, and the watchlist page. The homepage includes the requirements for the assignment, but it was challenging to translate the code for an activity to a fragments. Namely, in main activity the method onCreate is used while in a fragment the method OnCreateView is used. It took several hours to debug, but I felt satified after being able to implement an app with three tabs. I still have future ideas for this app; namely adding functionality to the extra tabs of explore and watchlist since currently they serve as a placeholder for a future update.
+Instead of just having one main activity, I decided to implement fragments in the app to have three tabs that would represent the homepage, explore page, and the watchlist page. The homepage includes the requirements for the assignment, but it was challenging to translate the code for an activity to a fragment. Namely, in main activity the method onCreate is used while in a fragment the method OnCreateView is used. It took several hours to debug, but I felt satisfied after being able to implement an app with three tabs. I still have future ideas for this app; namely adding functionality to the extra tabs of explore and watchlist since currently they serve as a placeholder for a future update.
 
 ### Open-source libraries used
 
