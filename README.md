@@ -31,7 +31,7 @@ The features below have been designed for portrait mode; a future update will ha
 
 ### App Walkthough GIF
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/i01jIIk" data-context="false" ><a href="//imgur.com/a/i01jIIk"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/i01jIIk"  ><a href="//imgur.com/a/i01jIIk">Flixster Part 1</a></blockquote>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
