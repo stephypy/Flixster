@@ -11,5 +11,6 @@
         android:id="@+id/rv_homepage"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginTop="110dp"
         android:visibility="visible" />
 </RelativeLayout>
