@@ -5,7 +5,8 @@
     android:id="@+id/movie_container"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginTop="150dp">
+    android:layout_marginTop="150dp"
+    >
 
     <ImageView
         android:id="@+id/iv_movie"
@@ -26,6 +27,7 @@
         android:layout_marginTop="0dp"
         android:layout_toEndOf="@+id/iv_movie"
         android:text="TextView"
+        android:textColor="@color/colorAccentYellow"
         android:textSize="24sp" />
 
     <TextView
@@ -33,10 +35,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/tv_title"
-        android:layout_marginStart="4dp"
+        android:layout_marginStart="10dp"
         android:layout_marginTop="16dp"
         android:layout_toEndOf="@+id/iv_movie"
         android:text="lorem ipsum aa snjg rthhyh thbhtb trhtynyt btny gvrybtrnu come on come let us adore you yes i know that ur not her"
+        android:textColor="#FFFFFF"
         android:textSize="18sp"
         tools:layout_margin="10dp" />
 
