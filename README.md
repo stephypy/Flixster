@@ -1,6 +1,36 @@
 # Flixster
 Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+
+- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+
+#### BONUS
+
+- [ ] Trailers for popular movies are played automatically when the movie is selected (1 point).
+  - [ ] When clicking on a popular movie (i.e. a movie voted for more than 5 stars) the video should be played immediately.
+  - [ ] Less popular videos rely on the detailed page should show an image preview that can initiate playing a YouTube video.
+- [ ] Add a play icon overlay to popular movies to indicate that the movie can be played (1 point).
+- [ ] Apply the popular ButterKnife annotation library to reduce view boilerplate. (1 point)
+- [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
+
+### App Walkthough GIF
+
+<img src='Flickster_Part2.gif' title='Video Walkthrough' width=500 alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+### Notes
+
+Date: 10/04/2020 <br />
+This was a really fun part and I am happy to have learned how to use an Intent; that being said, I also ran into several technical difficulties due to errors when
+importing the Youtube PlayerView. It took me awhile, but the TAs were helpful and I learned a lot. My UI/UX design is still incomplete, but part 2 contains more style changes. I am still planning on continuing this project, but its next update might have to wait till winter.
+
 ## Flixster Part 1
 
 ### User Stories
